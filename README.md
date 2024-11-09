@@ -4,7 +4,9 @@ A sophisticated e-commerce platform built with React, Redux Toolkit, and React Q
 
 ## 🌐 Live Demo
 
-Check out the live demo: [Comfy Store Live]([https://comfy-store-frontend.onrender.com](https://comfy-store-mocha.vercel.app/))
+Check out the live demo: [Comfy Store Live](https://comfy-store-mocha.vercel.app/)
+
+[![Comfy Store](public/preview.png)](https://comfy-store-mocha.vercel.app/)
 
 ## ✨ Features
 

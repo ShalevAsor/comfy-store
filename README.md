@@ -2,7 +2,9 @@
 
 A sophisticated e-commerce platform built with React, Redux Toolkit, and React Query. Features a responsive design with Tailwind CSS and DaisyUI components, offering a seamless shopping experience with advanced filtering, cart management, and checkout process.
 
+## 🌐 Live Demo
 
+Check out the live demo: [Comfy Store Live]([https://comfy-store-frontend.onrender.com](https://comfy-store-mocha.vercel.app/))
 
 ## ✨ Features
 
